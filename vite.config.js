@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base: '/practica-react/',
+  base: 'https://sorone871.github.io/practica-react',
 })

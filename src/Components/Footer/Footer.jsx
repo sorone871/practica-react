@@ -12,11 +12,11 @@ const Footer = () =>{
                 <img src="/practica-react/images/logo-light.svg" alt="Digitalbank" className="h-6"/>
                 <div className="flex gap-4">
                     {/* Redes */}
-                    <img src="/practica-react/images/icon-facebook.svg" alt="facebook" />
-                    <img src="/practica-react/images/icon-youtube.svg" alt="youtube" />
-                    <img src="/practica-react/images/icon-twitter.svg" alt="twitter" />
-                    <img src="/practica-react/images/icon-pinterest.svg" alt="pinterest" />
-                    <img src="/practica-react/images/icon-instagram.svg" alt="instagram" />
+                    <img src="./images/icon-facebook.svg" alt="facebook"  />
+                    <img src="./images/icon-youtube.svg" alt="youtube" />
+                    <img src="./images/icon-twitter.svg" alt="twitter" />
+                    <img src="./images/icon-pinterest.svg" alt="pinterest" />
+                    <img src="./images/icon-instagram.svg" alt="instagram" />
                 </div>
                 </div>
 
