@@ -93,7 +93,7 @@ Error generating stack: `+a.message+`
             \r
             \r
             md:w-[110%] md:h-[50%] md:flex-row  md:items-start md:content-center gap-[3rem] md:justify-start \r
-            `,children:[T.jsx(qn,{imagen:"../public/images/icon-online.svg",titulo:"Online Banking",contenido:`Our modern web and mobile 
+            `,children:[T.jsx(qn,{imagen:new URL("https://sorone871.github.io/practica-react/images/icon-online.svg",import.meta.url).href,titulo:"Online Banking",contenido:`Our modern web and mobile 
                 applications allow you to keep
                 track of your finances wherever
                 you are in the world.`}),T.jsx(qn,{imagen:"./images/icon-budgeting.svg",titulo:"Simple Budgeting",contenido:`See exactly where your money
