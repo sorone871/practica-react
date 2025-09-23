@@ -93,13 +93,13 @@ Error generating stack: `+a.message+`
             \r
             \r
             md:w-[110%] md:h-[50%] md:flex-row  md:items-start md:content-center gap-[3rem] md:justify-start \r
-            `,children:[T.jsx(qn,{imagen:"/practica-react/images/icon-online.svg",titulo:"Online Banking",contenido:`Our modern web and mobile 
+            `,children:[T.jsx(qn,{imagen:"../public/images/icon-online.svg",titulo:"Online Banking",contenido:`Our modern web and mobile 
                 applications allow you to keep
                 track of your finances wherever
-                you are in the world.`}),T.jsx(qn,{imagen:"/practica-react/images/icon-budgeting.svg",titulo:"Simple Budgeting",contenido:`See exactly where your money
+                you are in the world.`}),T.jsx(qn,{imagen:"./images/icon-budgeting.svg",titulo:"Simple Budgeting",contenido:`See exactly where your money
                 goes each month. Receive
                 notifications when you’re close to 
-                hitting your limits.`}),T.jsx(qn,{imagen:"/practica-react/images/icon-onboarding.svg",titulo:"Fast Onboarding",contenido:`We don’t do branches. Open your 
+                hitting your limits.`}),T.jsx(qn,{imagen:"/images/icon-onboarding.svg",titulo:"Fast Onboarding",contenido:`We don’t do branches. Open your 
                 account in minutes online and start
                 taking control of your finances
                 right away.`}),T.jsx(qn,{imagen:"/practica-react/images/icon-api.svg",titulo:"Open API",contenido:`Manage your savings, investments,
