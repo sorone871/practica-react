@@ -19,15 +19,15 @@ const Hero = () =>{
             </div>
             {/* imagen de fondo y celulares */}
             <div className="relative h-[100%] w-full
-            bg-[url(./images/bg-intro-mobile.svg)] bg-no-repeat  bg-position-[left_bottom_-7rem] bg-[length:100%]
+            bg-[url(../public/images/bg-intro-mobile.svg)] bg-no-repeat  bg-position-[left_bottom_-7rem] bg-[length:100%]
 
-            md:bg-[url(./images/bg-intro-desktop.svg)] md:bg-no-repeat  md:bg-position-[left_bottom_-5rem] md:bg-[length:176%] md:h-screen
+            md:bg-[url(../public/images/bg-intro-desktop.svg)] md:bg-no-repeat  md:bg-position-[left_bottom_-5rem] md:bg-[length:176%] md:h-screen
             ">
                 
                 <div className="absolute -top-40 right-0 w-[100%] h-[164%] flex justify-center content-center drop-shadow-xl
                 
                 md:-top-35 md:-right-33 md:h-[137%]">
-                    <img  src="./images/image-mockups.png" alt="img"
+                    <img  src="/practica-react/images/image-mockups.png" alt="img"
                     className="w-[100%] h-[100%]" />            
                 </div>
                 {/* <div className="h-screen w-full bg-[url(../public/images/image-mockups.png)] bg-no-repeat bg-cover bg-position-[center_bottom_10px]">

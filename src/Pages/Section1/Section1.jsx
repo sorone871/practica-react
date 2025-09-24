@@ -1,4 +1,6 @@
 import CardSimple from "../../Components/Cards/CardSimple";
+import iconBudgeting from "/images/icon-budgeting.svg";
+import iconApi from "/images/icon-api.svg";
 const Section1 = () =>{
 
     return(
@@ -24,7 +26,7 @@ const Section1 = () =>{
             ">
             
             <CardSimple 
-                imagen={"/practica-react/images/icon-online.svg"}    
+                imagen={"https://media.githubusercontent.com/media/sorone871/practica-react/a6c0dcb12701006d59f056ed925afdb978abda83/dist/images/icon-online.svg"}    
                 titulo="Online Banking"
                 contenido={`Our modern web and mobile 
                 applications allow you to keep
@@ -32,7 +34,7 @@ const Section1 = () =>{
                 you are in the world.`}
             />
             <CardSimple 
-                imagen={"/practica-react/images/icon-budgeting.svg"}    
+                imagen={"https://media.githubusercontent.com/media/sorone871/practica-react/3ec94940076d02cd21d54a5458472d23b88433cc/images/icon-budgeting.svg"}    
                 titulo="Simple Budgeting"
                 contenido={`See exactly where your money
                 goes each month. Receive
@@ -40,7 +42,7 @@ const Section1 = () =>{
                 hitting your limits.`}
             />
             <CardSimple 
-                imagen={"/practica-react/images/icon-onboarding.svg"}    
+                imagen={"https://media.githubusercontent.com/media/sorone871/practica-react/a6c0dcb12701006d59f056ed925afdb978abda83/dist/images/icon-onboarding.svg"}    
                 titulo="Fast Onboarding"
                 contenido={`We don’t do branches. Open your 
                 account in minutes online and start
@@ -48,7 +50,7 @@ const Section1 = () =>{
                 right away.`}
             />
             <CardSimple 
-                imagen={"/practica-react/images/icon-api.svg"}    
+                imagen={"https://media.githubusercontent.com/media/sorone871/practica-react/a6c0dcb12701006d59f056ed925afdb978abda83/dist/images/icon-api.svg"}    
                 titulo="Open API"
                 contenido={`Manage your savings, investments,
                 pension, and much more from one
